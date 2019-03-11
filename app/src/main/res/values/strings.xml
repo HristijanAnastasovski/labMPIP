@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="action_search">Search</string>
+    <string name="title_details">Title</string>
+    <string name="year_details">Year</string>
+    <string name="rated_details">Rated</string>
+    <string name="genre_details">Genre</string>
+</resources>
+<!--
+
+    @SerializedName("imdbID")
+    private String imdbID;
+
+    @SerializedName("Title")
+    private String title;
+
+    @SerializedName("Year")
+    private int year;
+
+    @SerializedName("Rated")
+    private String rated;
+
+    @SerializedName("Released")
+    private String released;
+
+    @SerializedName("Runtime")
+    private String runtime;
+
+    @SerializedName("Genre")
+    private String genre;
+
+    @SerializedName("Director")
+    private String director;
+
+    @SerializedName("Actors")
+    private String actors;
+
+    @SerializedName("Plot")
+    private String plot;-->
